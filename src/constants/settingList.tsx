@@ -149,6 +149,7 @@ export const langList = [
   { label: "བོད་སྐད།", value: "bo" },
   { label: "हिंदी", value: "hi" },
   { label: "Magyar", value: "hu" },
+  { label: "Keram", value: "krm" },
 ];
 
 export const searchList = [
