@@ -28,6 +28,9 @@ import translationFA from "./assets/locales/fa/translation.json";
 import translationPTBR from "./assets/locales/pt-BR/translation.json";
 import translationTH from "./assets/locales/th/translation.json";
 import translationKRM from "./assets/locales/pcc-KRM/translation.json";
+import translationBTS from "./assets/locales/pcc-BTS/translation.json";
+import translationPCC from "./assets/locales/pcc/translation.json";
+import translationZA from "./assets/locales/za/translation.json";
 // the translations
 const resources = {
   en: {
@@ -113,6 +116,15 @@ const resources = {
   },
   krm: {
     translation: translationKRM,
+  },
+  bts: {
+    translation: translationBTS,
+  },
+  pcc: {
+    translation: translationPCC,
+  },
+  za: {
+    translation: translationZA,
   },
 };
 
