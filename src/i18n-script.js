@@ -40,6 +40,9 @@ const resources = [
   "./assets/locales/zh-TW/translation.json",
   "./assets/locales/zh-MO/translation.json",
   "./assets/locales/pcc-KRM/translation.json",
+  "./assets/locales/pcc-BTS/translation.json",
+  "./assets/locales/pcc/translation.json",
+  "./assets/locales/za/translation.json",
 ];
 const fs = require("fs");
 const path = require("path");
